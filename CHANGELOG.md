@@ -1,3 +1,15 @@
+# v0.1.0 (Sun Mar 20 2022)
+
+#### 🚀 Enhancement
+
+- Minor [#1](https://github.com/hipstersmoothie/auto-test-2022/pull/1) ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v0.0.9 (Sun Mar 20 2022)
 
 
