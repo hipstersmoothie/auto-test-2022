@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "git-tag"
+  ],
+  "owner": "hipstersmoothie",
+  "repo": "auto-test-2022",
+  "name": "Andrew Lisowski",
+  "email": "lisowski54@gmail.com"
+}
