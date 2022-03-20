@@ -2,6 +2,19 @@
 
 #### ⚠️ Pushed to `v0`
 
+- hotfix 2 ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- hotfix ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
+# v0.1.1 (Sun Mar 20 2022)
+
+#### ⚠️ Pushed to `v0`
+
 - hotfix 2 (lisowski54@gmail.com)
 - hotfix (lisowski54@gmail.com)
 
