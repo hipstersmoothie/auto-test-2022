@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "1234"
+  ],
   "license": "ISC",
   "devDependencies": {
     "@auto-it/git-tag": "^10.36.0",
