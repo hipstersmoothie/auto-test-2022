@@ -3,5 +3,6 @@
     "git-tag"
   ],
   "owner": "hipstersmoothie",
-  "repo": "auto-test-2022"
+  "repo": "auto-test-2022",
+  "versionBranches": true
 }
